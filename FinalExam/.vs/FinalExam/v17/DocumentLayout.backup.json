@@ -1,0 +1,723 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\viewmodels\\auths\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\viewmodels\\auths\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\contexts\\finaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\contexts\\finaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\viewmodels\\auths\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\viewmodels\\auths\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\extensions\\roleextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\extensions\\roleextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\migrations\\20250123065113_createdproductanddepartmenttables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\migrations\\20250123065113_createdproductanddepartmenttables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\viewmodels\\products\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\viewmodels\\products\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\viewmodels\\departments\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\viewmodels\\departments\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Migrations\\20250123064435_CreatedProductAndDepartmentTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinalExam\\Migrations\\20250123064435_CreatedProductAndDepartmentTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\areas\\admin\\views\\department\\craete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\department\\craete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\viewmodels\\departments\\departmentlistitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\viewmodels\\departments\\departmentlistitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\viewmodels\\departments\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\viewmodels\\departments\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\viewmodels\\products\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\viewmodels\\products\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\viewmodels\\products\\productlistitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\viewmodels\\products\\productlistitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|c:\\users\\ca r221.14\\desktop\\exam\\finalexam\\finalexam\\migrations\\20250123074123_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900618C6-406A-4982-BF85-CD49A24007E5}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\migrations\\20250123074123_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 822,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "FinalExam\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T08:39:42.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "FinalExam\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T07:47:40.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoleExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Extensions\\RoleExtension.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Extensions\\RoleExtension.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Extensions\\RoleExtension.cs",
+              "RelativeToolTip": "FinalExam\\Extensions\\RoleExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:44:18.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FinalExam\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowE8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:42:55.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250123074123_test.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Migrations\\20250123074123_test.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Migrations\\20250123074123_test.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Migrations\\20250123074123_test.cs",
+              "RelativeToolTip": "FinalExam\\Migrations\\20250123074123_test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:41:23.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Models\\Roles.cs",
+              "RelativeToolTip": "FinalExam\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:24:56.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\ViewModels\\Auths\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "FinalExam\\ViewModels\\Auths\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\ViewModels\\Auths\\RegisterVM.cs",
+              "RelativeToolTip": "FinalExam\\ViewModels\\Auths\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:16:20.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\ViewModels\\Auths\\LoginVM.cs",
+              "RelativeDocumentMoniker": "FinalExam\\ViewModels\\Auths\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\ViewModels\\Auths\\LoginVM.cs",
+              "RelativeToolTip": "FinalExam\\ViewModels\\Auths\\LoginVM.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:16:10.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Models\\AppUser.cs",
+              "RelativeToolTip": "FinalExam\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:15:03.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250123065113_CreatedProductAndDepartmentTables.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Migrations\\20250123065113_CreatedProductAndDepartmentTables.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Migrations\\20250123065113_CreatedProductAndDepartmentTables.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Migrations\\20250123065113_CreatedProductAndDepartmentTables.cs",
+              "RelativeToolTip": "FinalExam\\Migrations\\20250123065113_CreatedProductAndDepartmentTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:51:13.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250123064435_CreatedProductAndDepartmentTables.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Migrations\\20250123064435_CreatedProductAndDepartmentTables.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Migrations\\20250123064435_CreatedProductAndDepartmentTables.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Migrations\\20250123064435_CreatedProductAndDepartmentTables.cs",
+              "RelativeToolTip": "FinalExam\\Migrations\\20250123064435_CreatedProductAndDepartmentTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:44:35.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\appsettings.json",
+              "RelativeDocumentMoniker": "FinalExam\\appsettings.json",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\appsettings.json",
+              "RelativeToolTip": "FinalExam\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T06:41:22.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T06:05:26.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T06:03:40.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T06:03:13.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T06:02:52.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Craete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Department\\Craete.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\Department\\Craete.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Department\\Craete.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\Department\\Craete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T06:02:30.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T06:02:09.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T05:21:36.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Program.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Program.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Program.cs",
+              "RelativeToolTip": "FinalExam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:05:41.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FinalExam\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T05:02:46.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FinalExam\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:59:41.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Extensions\\FileExtension.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Extensions\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Extensions\\FileExtension.cs",
+              "RelativeToolTip": "FinalExam\\Extensions\\FileExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:54:01.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductListItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\ViewModels\\Products\\ProductListItemVM.cs",
+              "RelativeDocumentMoniker": "FinalExam\\ViewModels\\Products\\ProductListItemVM.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\ViewModels\\Products\\ProductListItemVM.cs",
+              "RelativeToolTip": "FinalExam\\ViewModels\\Products\\ProductListItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:53:34.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\ViewModels\\Products\\ProductUpdateVM.cs",
+              "RelativeDocumentMoniker": "FinalExam\\ViewModels\\Products\\ProductUpdateVM.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\ViewModels\\Products\\ProductUpdateVM.cs",
+              "RelativeToolTip": "FinalExam\\ViewModels\\Products\\ProductUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:53:21.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\ViewModels\\Products\\ProductCreateVM.cs",
+              "RelativeDocumentMoniker": "FinalExam\\ViewModels\\Products\\ProductCreateVM.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\ViewModels\\Products\\ProductCreateVM.cs",
+              "RelativeToolTip": "FinalExam\\ViewModels\\Products\\ProductCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:53:10.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DepartmentListItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\ViewModels\\Departments\\DepartmentListItemVM.cs",
+              "RelativeDocumentMoniker": "FinalExam\\ViewModels\\Departments\\DepartmentListItemVM.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\ViewModels\\Departments\\DepartmentListItemVM.cs",
+              "RelativeToolTip": "FinalExam\\ViewModels\\Departments\\DepartmentListItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:52:53.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DepartmentUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "RelativeDocumentMoniker": "FinalExam\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "RelativeToolTip": "FinalExam\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:52:37.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DepartmentCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "RelativeDocumentMoniker": "FinalExam\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "RelativeToolTip": "FinalExam\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:52:22.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Models\\Department.cs",
+              "RelativeToolTip": "FinalExam\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:49:16.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "FinalExam\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:48:05.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:44:40.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:44:22.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:44:04.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:43:48.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:43:38.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:43:27.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FinalExam\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:43:07.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FinalExam\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:42:35.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Contexts\\FinalDbContext.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Contexts\\FinalDbContext.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Contexts\\FinalDbContext.cs",
+              "RelativeToolTip": "FinalExam\\Contexts\\FinalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:42:34.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Exam\\FinalExam\\FinalExam\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "FinalExam\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:42:32.708Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 39,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 165,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
